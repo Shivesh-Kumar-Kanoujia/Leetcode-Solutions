@@ -8,11 +8,13 @@
 | [0015-3sum](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
