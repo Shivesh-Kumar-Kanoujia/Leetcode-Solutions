@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -16,6 +17,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0162-find-peak-element) |
