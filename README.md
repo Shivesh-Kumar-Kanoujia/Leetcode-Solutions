@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -50,9 +51,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
