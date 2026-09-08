@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -53,6 +54,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
