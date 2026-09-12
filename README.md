@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0162-find-peak-element) |
@@ -60,6 +61,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
