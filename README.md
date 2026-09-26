@@ -21,6 +21,7 @@
 | [0493-reverse-pairs](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0162-find-peak-element](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
