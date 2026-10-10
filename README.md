@@ -18,6 +18,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -35,6 +36,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -61,6 +63,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -73,6 +76,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -105,4 +109,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0048-rotate-image) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Shivesh-Kumar-Kanoujia/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
